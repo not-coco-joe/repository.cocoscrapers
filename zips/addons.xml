@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="repository.cocoscrapers" name="CocoScrapers Repository" version="1.0.1" provider-name="CocoScrapers">
+<addons><addon id="repository.cocoscrapers" name="CocoScrapers Repository" version="1.0.0" provider-name="CocoScrapers">
     <extension point="xbmc.addon.repository" name="CocoScrapers Repository">
         <dir minversion="19.0">
             <info compressed="false">https://raw.githubusercontent.com/not-coco-joe/repository.cocoscrapers/master/zips/addons.xml</info>
@@ -12,7 +12,7 @@
         <summary>CocoScrapers Repository</summary>
         <description>Unofficial add-ons repository</description>
     </extension>
-</addon><addon id="script.module.cocoscrapers" name="CocoScrapers Module" version="1.0.36" provider-name="CocoJoe">
+</addon><addon id="script.module.cocoscrapers" name="CocoScrapers Module" version="1.0.37" provider-name="CocoJoe">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" />
