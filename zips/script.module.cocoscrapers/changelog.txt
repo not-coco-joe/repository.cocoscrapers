@@ -1,3 +1,6 @@
+[COLOR red][B]Version 1.0.45[/B][/COLOR]
+- Avoid strptime failures during episode air-date validation that can abort provider searches.
+
 [COLOR red][B]Version 1.0.44[/B][/COLOR]
 - Add episode air-date matching across TV providers and date queries for text-search providers.
 
